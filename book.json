@@ -4,5 +4,8 @@
     "description": " Thinking In PHP Internals, An open book about PHP Internals http://www.php-internals.com/",
     "language": "zh",
     "generator": "book",
-    "extension": "pdf"
+    "extension": "pdf",
+    "structure": {
+        "readme": "README.markdown"
+    }
 }
